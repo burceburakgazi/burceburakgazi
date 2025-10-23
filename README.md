@@ -1,6 +1,6 @@
 ## Hi I'm Burçe 👋
 
-💻 Computer Engineering Student at MCBU | AI Intern<br/>
+💻 Computer Engineering Student at MCBU | AI Engineering Intern<br/>
 🚀  Building with Python, Java, C# and C<br/>
 🧠 Passionate about ML, AI, and intelligent systems<br/>
 
